@@ -22,7 +22,7 @@ Obesitas merupakan salah satu permasalahan kesehatan yang berkembang secara glob
 ---
 
 ## 📊 Dataset
-Dataset yang digunakan berasal dari dataset publik yang berisi informasi gaya hidup dan hasil klasifikasi obesitas seseorang berdasarkan beberapa parameter medis dan kebiasaan hidup.
+Dataset yang digunakan berasal dari dataset yang sudah diberikan yang berisi informasi gaya hidup dan hasil klasifikasi obesitas berdasarkan beberapa parameter medis dan kebiasaan hidup.
 
 **Target Kolom**: `NObeyesdad`  
 **Fitur yang digunakan**:
