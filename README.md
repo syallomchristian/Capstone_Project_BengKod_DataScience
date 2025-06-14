@@ -1,3 +1,8 @@
+## Link Github Deployment
+https://github.com/Syallom22/Deploy_CAPSTONE/tree/main
+## Link Streamlit
+https://capstoneuasa11202214384.streamlit.app/
+
 # 🚀 PROJECT CAPSTONE BENGKOD
 
 ### 🎯 Tujuan Proyek
